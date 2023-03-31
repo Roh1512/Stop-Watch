@@ -48,10 +48,20 @@ button i {
 #play {
     background-color: rgb(63, 103, 3);
 }
+#play:active {
+    background-color: #050202;
+}
 
 #pause {
     background-color: orange;
 }
+#pause:active {
+    background-color: #050202;
+}
+
 #reset {
     background-color: red;
+}
+#reset:active {
+    background-color: #050202;
 }
